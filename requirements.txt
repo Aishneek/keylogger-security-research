@@ -1,0 +1,5 @@
+# No external dependencies required.
+# Uses Python standard libraries:
+# tkinter
+# csv
+# datetime
